@@ -1,2 +1,2 @@
 # MyReport1
-blabla
+The first course of studying python
